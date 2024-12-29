@@ -295,7 +295,7 @@ Este proyecto está bajo la Licencia MIT. Puedes usar, modificar y distribuir el
 
 ### Imágenes:
 
-A continuación, se muestran algunas imágenes del formulario de autenticación (AuthForm) y otras vistas relevantes:
+A continuación, se muestran algunas imágenes y otras vistas relevantes:
 
 1. ![Pantalla Principal](public/img/README/img1.webp)
 2. ![Vidas](public/img/README/img1-2.webp)
